@@ -13,9 +13,9 @@ Veri modeli olarak Kuyruk sistemini kullanıp, verilerin ilk gelenin ilk çıkma
 İşler üzerinde Silme, ekleme, aciliyeti artırma/azaltma ve arama işlevleri vardır.  
 Genel fonksiyonlar ve bulunduğu dosya isimleri aşağıdadır. 
 
-**Karar Fonksiyonları:** 									main.php  
-**Veri Sınıfı Tanımı  ve Fonksiyonları:	**			item.php  
-**Veri Listesi Sınıfı Tanımı ve Fonksiyonları:** 	itemlist.php  
+**Karar Fonksiyonları:** main.php  
+**Veri Sınıfı Tanımı  ve Fonksiyonları:** item.php  
+**Veri Listesi Sınıfı Tanımı ve Fonksiyonları:** itemlist.php  
 
 **Önemli Not:**  
 Yazılım açılırken ve kapanırken “list.json” dosyası ile iletişime geçiyor. Yazma ve okuma yetkisi olması gerekmektedir. Açılışta okuyup, verileri işlemek için yüklerken, kullanıcıya ekran çıktısını göndermeden önce ise son halini ilgili dosyaya kaydetmektedir.  
